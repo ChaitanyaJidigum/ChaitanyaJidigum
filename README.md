@@ -140,6 +140,8 @@ I don't just want to use technology. I want to discover new ways to use it.
 
 ---
 
+---
+
 ## 👑 FEATURED PROJECTS
 
 <p align="center">
@@ -150,7 +152,7 @@ I don't just want to use technology. I want to discover new ways to use it.
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AgentForge
+### 🤖 [AgentForge](https://github.com/ChaitanyaJidigum/Agent-Forge)
 
 **AI-Powered Software Engineering Workspace**
 
@@ -158,64 +160,50 @@ A multi-agent AI platform designed to support software planning, implementation,
 
 **Stack:** Next.js · TypeScript · FastAPI · LangGraph · Gemini · PostgreSQL · Docker
 
+<p><a href="https://github.com/ChaitanyaJidigum/Agent-Forge">Explore Repository →</a></p>
+
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ Atlas Go
+### 🗺️ [Atlas Go](https://github.com/ChaitanyaJidigum/Atlas-go)
 
 **Geospatial Exploration Platform**
 
-An interactive mapping experience combining geospatial visualization, temporal replay, spatial indexing, and privacy-conscious local data handling.
+An interactive mapping experience focused on geospatial visualization, temporal replay, spatial indexing, and privacy-conscious local data handling.
 
 **Stack:** Next.js · React · MapLibre · OpenStreetMap · Uber H3
 
+<p><a href="https://github.com/ChaitanyaJidigum/Atlas-go">Explore Repository →</a></p>
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📱 C_GAINS
+### 📱 [C_GAINS](https://github.com/ChaitanyaJidigum/C_GAINS)
 
 **Fitness & Performance Platform**
 
-A cross-platform fitness app focused on workout tracking, nutrition planning, exercise discovery, and progress analytics.
+A cross-platform fitness application focused on workout tracking, nutrition planning, exercise discovery, and progress analytics.
 
 **Stack:** Flutter · Dart · Riverpod · Drift · SQLite
 
-</td>
-<td width="50%" valign="top">
-
-### 👁️ Smart CCTV Crowd Management
-
-**AI & Computer Vision**
-
-A computer-vision project focused on CCTV monitoring, crowd analysis, and automated surveillance support.
-
-**Stack:** Python · TensorFlow · OpenCV · Node.js · Express
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✈️ Airfare Price Prediction
-
-**Machine Learning & Data Science**
-
-A machine-learning pipeline using data preprocessing, feature engineering, and regression models to estimate airfare prices.
-
-**Stack:** Python · Pandas · Scikit-learn · NumPy
+<p><a href="https://github.com/ChaitanyaJidigum/C_GAINS">Explore Repository →</a></p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Developer Portfolio
+### 🌐 [Developer Portfolio](https://github.com/ChaitanyaJidigum/portfolio-Chaitanya-Jidigum)
 
 **Interactive Developer Experience**
 
 A personal portfolio featuring project discovery, a command-driven console, responsive UI, and a custom animated scene.
 
 **Stack:** Next.js · TypeScript · React · CSS · Vercel
+
+<p><a href="https://github.com/ChaitanyaJidigum/portfolio-Chaitanya-Jidigum">Explore Repository →</a></p>
+
+<p><a href="https://portfolio-chaitanya-jidigum.vercel.app/">View Live Portfolio ↗</a></p>
 
 </td>
 </tr>
@@ -226,7 +214,6 @@ A personal portfolio featuring project discovery, a command-driven console, resp
 Building immersive environments, cinematic scenes, and gameplay experiences with Roblox Studio, while exploring Unity and Unreal Engine.
 
 ---
-
 
 
 If an idea sounds interesting enough, there's a good chance I'll try building it.
