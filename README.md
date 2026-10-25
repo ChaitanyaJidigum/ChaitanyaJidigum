@@ -1,9 +1,10 @@
 ![Shadow Monarch Banner](./banner.png)
 
-![Animated Shadow Monarch Text](https://readme-typing-svg.demolab.com?font=Metal+Mania&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=I+INVENT+THINGS+THAT+DON%27T+EXIST+IRL.;DEVELOPER+%7C+CREATOR+%7C+BUILDER)
+![Animated Shadow Monarch Text](https://readme-typing-svg.demolab.com?font=Metal+Mania&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=AN+INVENTOR+OF+THE+INEVITABLE.;DEVELOPER+%7C+CREATOR+%7C+BUILDER&v=2)
+
 # Hey, I'm Chaitanya 👋
 
-### ⚡ I invent things that don't exist IRL.
+### ⚡ AN INVENTOR OF THE INEVITABLE.
 
 I'm a developer, creator, and curious mind who loves turning random ideas into real things.
 
@@ -21,6 +22,8 @@ I don't just want to use technology. I want to discover new ways to use it.
 - 🛠️ Learning by building, debugging, and improving
 - 🌌 Curious about ideas that seem impossible until someone creates them
 - 🚀 Always exploring. Always experimenting. Always building.
+
+---
 
 ## ⚔️ MY DEVELOPER ARSENAL
 
@@ -132,10 +135,19 @@ I don't just want to use technology. I want to discover new ways to use it.
   <img src="https://img.shields.io/badge/Docker_Compose-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Agile_Development-0D1117?style=for-the-badge&logo=scrumalliance&logoColor=A855F7" />
 </p>
-### 🛸 The Goal?
+
+---
+
+### 🛸 THE GOAL?
 
 **Imagine it. Build it. Make it real.**
 
 If an idea sounds interesting enough, there's a good chance I'll try building it.
 
 ⭐ Thanks for stopping by. Explore my repositories and see what I'm creating!
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chaitanya-jidigum-082091268/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2
