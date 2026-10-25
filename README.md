@@ -14,7 +14,7 @@ I don't just want to use technology. I want to discover new ways to use it.
 
 ---
 
-### 🧠 A Little About Me
+### 🧠 A LITTLE ABOUT ME
 
 - 💻 Building web applications and digital experiences
 - 🎮 Exploring game development and interactive worlds
@@ -138,10 +138,6 @@ I don't just want to use technology. I want to discover new ways to use it.
 
 ---
 
----
-
----
-
 ## 👑 FEATURED PROJECTS
 
 <p align="center">
@@ -209,12 +205,34 @@ A personal portfolio featuring project discovery, a command-driven console, resp
 </tr>
 </table>
 
+---
+
 ### 🎮 GAME DEVELOPMENT LAB
 
 Building immersive environments, cinematic scenes, and gameplay experiences with Roblox Studio, while exploring Unity and Unreal Engine.
 
 ---
 
+## 📊 GITHUB ACTIVITY
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChaitanyaJidigum&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaJidigum&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaJidigum&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
+
+<p align="center">
+  <i>Every contribution is another step toward building something extraordinary.</i>
+</p>
+
+---
+
+### 🛸 THE GOAL?
+
+**Imagine it. Build it. Make it real.**
 
 If an idea sounds interesting enough, there's a good chance I'll try building it.
 
@@ -224,4 +242,12 @@ If an idea sounds interesting enough, there's a good chance I'll try building it
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chaitanya-jidigum-082091268/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ChaitanyaJidigum">
+    <img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/users/768451909153194004">
+    <img src="https://img.shields.io/badge/Discord-Connect-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+  </a>
+</p>
