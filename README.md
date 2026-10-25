@@ -1,4 +1,6 @@
-![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2F6FEB&center=true&vCenter=true&width=900&lines=I+invent+things+that+don't+exist+IRL.;Developer+%7C+Creator+%7C+Builder;Imagine+it.+Build+it.+Make+it+real.)
+![Shadow Monarch Banner](./banner.png)
+
+![Animated Shadow Monarch Text](https://readme-typing-svg.demolab.com?font=Metal+Mania&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=I+INVENT+THINGS+THAT+DON%27T+EXIST+IRL.;DEVELOPER+%7C+CREATOR+%7C+BUILDER)
 # Hey, I'm Chaitanya 👋
 
 ### ⚡ I invent things that don't exist IRL.
